@@ -1,0 +1,13 @@
+com\MicroserviceProject\productservice\dto\ProductRequest.class
+com\MicroserviceProject\productservice\dto\ProductResponse.class
+com\MicroserviceProject\productservice\repository\ProductRepository.class
+com\MicroserviceProject\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\MicroserviceProject\productservice\model\Product.class
+com\MicroserviceProject\productservice\ProductServiceApplication.class
+com\MicroserviceProject\productservice\service\ProductService.class
+com\MicroserviceProject\productservice\dto\PersonsResponse.class
+com\MicroserviceProject\productservice\dto\TableDB.class
+com\MicroserviceProject\productservice\model\Product$ProductBuilder.class
+com\MicroserviceProject\productservice\controller\ProductController.class
+com\MicroserviceProject\productservice\dto\Persons.class
+com\MicroserviceProject\productservice\dto\ProductResponse$ProductResponseBuilder.class
